@@ -1,0 +1,32 @@
+body{
+    background-color: #673ab7;
+    color: aliceblue;
+}
+.container{
+    /* background-color: #d3bbff; */
+    border: 1px solid white;
+
+}
+.p50{
+    padding: 50px;
+}
+
+.color-1{
+    background-color: #d3bbff;
+    color: black;
+    padding: 10px;
+}
+
+.height-500{
+    height: 500px;
+}
+
+.grid-color.container{
+    border: 1px solid red;
+}
+
+.bg{
+    background-color: #fcfafe26;
+    border: 1px solid #311b5e3d !important;
+    padding: 10px;
+}
